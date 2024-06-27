@@ -1,6 +1,6 @@
 {
   "name": "cra",
-  "home": "https://komarov03.github.io/react-shop-fortnite",
+  "homepage": "https://komarov03.github.io/react-shop-fortnite",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
